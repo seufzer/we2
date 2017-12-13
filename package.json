@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "simple-memory-store": "^1.0.2"
+  },
+  "name": "BBK",
+  "version": "1.0.0",
+  "description": "RESTApi",
+  "main": "app.js",
+  "author": "BBK",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
